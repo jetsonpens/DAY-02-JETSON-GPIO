@@ -1,13 +1,33 @@
-# Edge vs Cloud Computing
-
----
-
 # Overview
 
 -   Edge Computing Introduction
 -   Intro to Jetson-nano, L4T (Linux for Tegra) & JetPack,
 -   GPIO Programming & Hardware interfacing (Buzzer & LED)
 -   Camera interfacing,
+
+---
+
+## Edge vs Cloud Computing
+
+![](resources/edge-cloud-2.png)
+
+-   **CLoud Computing** -
+    Sederhananya, cloud computing (komputasi awan) adalah metode penyampaian berbagai layanan melalui internet. Sumber daya yang dimaksud contohnya adalah aplikasi seperti penyimpanan data, server, database, jaringan, dan perangkat lunak.
+
+    Daripada menyimpan banyak file di hard drive atau penyimpanan lokal di komputer atau handphone, penyimpanan berbasis cloud memungkinkan Anda menyimpan file selama Anda memiliki akses ke internet.
+
+-   **Edge Computing** -
+    Edge computing adalah proses komputasi yang difokuskan untuk memproses lalu lintas IoT dan penyimpanan data sedekat mungkin dari sumber data ke pusat data, sehingga dapat mengurangi latensi dan penggunaan bandwidth yang tidak diperlukan. Edge computing memungkinkan data yang dihasilkan perangkat IoT diproses lebih dekat ke data center atau cloud. Memungkinkan perusahaan untuk menganalisa data secara real time.
+
+    ![](resources/edge-cloud-3.png)
+
+    Edge computing meliputi berbagai teknologi termasuk jaringan sensor nirkabel, data mobile, analisa tanda tangan, jaringan peer-to-peer dan komputasi grid/mesh. Adapun beberapa contoh device yang digunakan antara lain:
+
+    -   NVIDIA Jetson
+    -   Intel NUC
+    -   Google Coral
+
+    ![](resources/edge-device.png)
 
 ---
 

@@ -196,7 +196,8 @@
     ```
 -   Install Python Library `Jetson.GPIO` (_by default is already installed_),
     ```
-    sudo pip install Jetson.GPIO
+    sudo apt-get install python3-pip
+    pip3 install Jetson.GPIO
     ```
 -   https://github.com/NVIDIA/jetson-gpio
 
